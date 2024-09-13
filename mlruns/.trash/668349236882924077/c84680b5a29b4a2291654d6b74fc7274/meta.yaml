@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rahul/PycharmProjects/nycTaxi/mlruns/668349236882924077/c84680b5a29b4a2291654d6b74fc7274/artifacts
+deleted_time: 1725166646760
+end_time: 1725151358957
+entry_point_name: ''
+experiment_id: '668349236882924077'
+lifecycle_stage: deleted
+run_id: c84680b5a29b4a2291654d6b74fc7274
+run_name: worried-bee-724
+run_uuid: c84680b5a29b4a2291654d6b74fc7274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725151356856
+status: 4
+tags: []
+user_id: rahul

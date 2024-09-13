@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rahul/PycharmProjects/nycTaxi/mlruns/668349236882924077/e4b0a68950c64a85a4cb062a5745c834/artifacts
+deleted_time: 1725166646760
+end_time: 1725139935131
+entry_point_name: ''
+experiment_id: '668349236882924077'
+lifecycle_stage: deleted
+run_id: e4b0a68950c64a85a4cb062a5745c834
+run_name: treasured-stork-273
+run_uuid: e4b0a68950c64a85a4cb062a5745c834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725139840892
+status: 3
+tags: []
+user_id: rahul

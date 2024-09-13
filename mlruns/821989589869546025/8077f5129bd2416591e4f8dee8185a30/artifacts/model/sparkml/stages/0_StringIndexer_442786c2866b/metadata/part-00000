@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1725153286958,"sparkVersion":"3.5.2","uid":"StringIndexer_442786c2866b","paramMap":{"outputCol":"pickup_timeofday_index","handleInvalid":"keep","inputCol":"pickup_timeofday"},"defaultParamMap":{"stringOrderType":"frequencyDesc","outputCol":"StringIndexer_442786c2866b__output","handleInvalid":"error"}}

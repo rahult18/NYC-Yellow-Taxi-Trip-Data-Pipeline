@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rahul/PycharmProjects/nycTaxi/mlruns/821989589869546025/d9f935b5c5f140b1b03782bc87fcc804/artifacts
+end_time: 1725166557008
+entry_point_name: ''
+experiment_id: '821989589869546025'
+lifecycle_stage: active
+run_id: d9f935b5c5f140b1b03782bc87fcc804
+run_name: luxuriant-yak-281
+run_uuid: d9f935b5c5f140b1b03782bc87fcc804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725166403578
+status: 3
+tags: []
+user_id: rahul

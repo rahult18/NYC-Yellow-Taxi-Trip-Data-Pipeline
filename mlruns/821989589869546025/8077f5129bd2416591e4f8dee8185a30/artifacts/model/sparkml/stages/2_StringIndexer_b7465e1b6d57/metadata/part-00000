@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1725153287945,"sparkVersion":"3.5.2","uid":"StringIndexer_b7465e1b6d57","paramMap":{"outputCol":"dropoff_timeofday_index","handleInvalid":"keep","inputCol":"dropoff_timeofday"},"defaultParamMap":{"outputCol":"StringIndexer_b7465e1b6d57__output","handleInvalid":"error","stringOrderType":"frequencyDesc"}}

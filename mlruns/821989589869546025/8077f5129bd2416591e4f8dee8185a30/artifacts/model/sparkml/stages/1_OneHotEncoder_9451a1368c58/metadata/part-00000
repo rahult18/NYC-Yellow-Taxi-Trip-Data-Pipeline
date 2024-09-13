@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1725153287768,"sparkVersion":"3.5.2","uid":"OneHotEncoder_9451a1368c58","paramMap":{"outputCols":["pickup_timeofday_encoded"],"inputCols":["pickup_timeofday_index"]},"defaultParamMap":{"outputCol":"OneHotEncoder_9451a1368c58__output","handleInvalid":"error","dropLast":true}}

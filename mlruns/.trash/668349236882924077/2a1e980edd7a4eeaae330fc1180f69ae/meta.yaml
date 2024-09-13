@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rahul/PycharmProjects/nycTaxi/mlruns/668349236882924077/2a1e980edd7a4eeaae330fc1180f69ae/artifacts
+deleted_time: 1725166646760
+end_time: 1725138394875
+entry_point_name: ''
+experiment_id: '668349236882924077'
+lifecycle_stage: deleted
+run_id: 2a1e980edd7a4eeaae330fc1180f69ae
+run_name: painted-trout-552
+run_uuid: 2a1e980edd7a4eeaae330fc1180f69ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725138391228
+status: 4
+tags: []
+user_id: rahul

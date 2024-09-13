@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rahul/PycharmProjects/nycTaxi/mlruns/668349236882924077/16e77ae852a8465fadc79d015a0c9173/artifacts
+deleted_time: 1725166646760
+end_time: 1725139568916
+entry_point_name: ''
+experiment_id: '668349236882924077'
+lifecycle_stage: deleted
+run_id: 16e77ae852a8465fadc79d015a0c9173
+run_name: invincible-sow-889
+run_uuid: 16e77ae852a8465fadc79d015a0c9173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725138896345
+status: 4
+tags: []
+user_id: rahul

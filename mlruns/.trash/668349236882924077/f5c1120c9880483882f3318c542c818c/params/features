@@ -1,0 +1,1 @@
+['vendorid', 'ratecodeid', 'pulocationid', 'dolocationid', 'passenger_count', 'trip_distance', 'fare_amount', 'extra', 'mta_tax', 'tip_amount', 'tolls_amount', 'improvement_surcharge', 'total_amount', 'trip_duration', 'payment_type_encoded', 'pickup_timeofday_encoded', 'dropoff_timeofday_encoded']

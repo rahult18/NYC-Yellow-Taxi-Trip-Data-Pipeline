@@ -1,0 +1,32 @@
+2024-09-01 18:12:04,057 - INFO - Spark session initialized
+2024-09-01 18:12:05,066 - INFO - Data loaded from PostgreSQL
+2024-09-01 18:12:05,101 - INFO - Unnecessary columns removed
+2024-09-01 18:12:05,390 - INFO - Columns converted to appropriate types and null values handled
+2024-09-01 18:12:05,413 - INFO - Pipeline stages created
+2024-09-01 18:12:07,334 - INFO - Sample row of data: {'vendorid': 1.0, 'passenger_count': 1.0, 'trip_distance': 6.1, 'ratecodeid': 1.0, 'pulocationid': 138.0, 'dolocationid': 145.0, 'payment_type': 1.0, 'fare_amount': 28.2, 'tip_amount': 5.0, 'improvement_surcharge': 1.0, 'total_amount': 42.45, 'trip_duration': 24.583333333333332, 'pickup_hour': 0, 'dropoff_hour': 1, 'pickup_day': 4, 'dropoff_day': 4, 'pickup_timeofday': 'late night', 'pickup_is_weekend': False, 'fare_per_mile': 4.622950819672131}
+2024-09-01 18:12:07,351 - INFO - Data split into train and test sets
+2024-09-01 18:12:07,374 - INFO - MLflow experiment set up
+2024-09-01 18:12:07,734 - INFO - Starting training for RandomForest
+2024-09-01 18:14:02,936 - INFO - train RMSE: 2.8538570532943615
+2024-09-01 18:14:02,937 - INFO - train MAE: 0.4942519361388176
+2024-09-01 18:14:02,937 - INFO - train R-squared: 0.9776839834662193
+2024-09-01 18:14:11,734 - INFO - test RMSE: 2.6375275785149483
+2024-09-01 18:14:11,735 - INFO - test MAE: 0.5148704348276549
+2024-09-01 18:14:11,735 - INFO - test R-squared: 0.9800446725913866
+2024-09-01 18:14:31,653 - INFO - Model training and evaluation completed
+2024-09-01 18:14:31,705 - INFO - Feature Importances:
+2024-09-01 18:14:31,705 - INFO - fare_amount: 0.3570537860609476
+2024-09-01 18:14:31,705 - INFO - total_amount: 0.25984423433887455
+2024-09-01 18:14:31,705 - INFO - trip_distance: 0.1704509085489668
+2024-09-01 18:14:31,705 - INFO - trip_duration: 0.05332468434445713
+2024-09-01 18:14:31,705 - INFO - ratecodeid: 0.03911823083048364
+2024-09-01 18:14:31,705 - INFO - tip_amount: 0.0377760476710077
+2024-09-01 18:14:31,705 - INFO - improvement_surcharge: 0.037001717069742125
+2024-09-01 18:14:31,705 - INFO - dolocationid: 0.01084109644159407
+2024-09-01 18:14:31,705 - INFO - pulocationid: 0.005505406380881767
+2024-09-01 18:14:31,705 - INFO - payment_type: 0.0033089399795764997
+2024-09-01 18:14:31,705 - INFO - vendorid: 0.0011508853412508157
+2024-09-01 18:14:31,705 - INFO - passenger_count: 0.0008724474953860819
+2024-09-01 18:14:31,705 - INFO - pickup_timeofday_encoded: 0.00044751962133084404
+2024-09-01 18:14:31,706 - INFO - fare_per_mile: 0.00023126566700434545
+2024-09-01 18:14:31,755 - INFO - Closing down clientserver connection

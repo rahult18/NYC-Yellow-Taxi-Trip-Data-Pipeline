@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rahul/PycharmProjects/nycTaxi/mlruns/821989589869546025/b5f638c2ca0644acab7c75b5e9e10c32/artifacts
+end_time: 1725227986493
+entry_point_name: ''
+experiment_id: '821989589869546025'
+lifecycle_stage: active
+run_id: b5f638c2ca0644acab7c75b5e9e10c32
+run_name: vaunted-carp-581
+run_uuid: b5f638c2ca0644acab7c75b5e9e10c32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725227756667
+status: 3
+tags: []
+user_id: rahul

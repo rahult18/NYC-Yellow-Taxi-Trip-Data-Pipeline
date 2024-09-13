@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rahul/PycharmProjects/nycTaxi/mlruns/668349236882924077/f5c1120c9880483882f3318c542c818c/artifacts
+deleted_time: 1725166646760
+end_time: 1725137414143
+entry_point_name: ''
+experiment_id: '668349236882924077'
+lifecycle_stage: deleted
+run_id: f5c1120c9880483882f3318c542c818c
+run_name: omniscient-panda-178
+run_uuid: f5c1120c9880483882f3318c542c818c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725137365985
+status: 3
+tags: []
+user_id: rahul

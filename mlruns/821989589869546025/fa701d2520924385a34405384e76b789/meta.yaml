@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rahul/PycharmProjects/nycTaxi/mlruns/821989589869546025/fa701d2520924385a34405384e76b789/artifacts
+end_time: 1725168845308
+entry_point_name: ''
+experiment_id: '821989589869546025'
+lifecycle_stage: active
+run_id: fa701d2520924385a34405384e76b789
+run_name: big-bat-333
+run_uuid: fa701d2520924385a34405384e76b789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725168696959
+status: 3
+tags: []
+user_id: rahul
